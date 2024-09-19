@@ -6,8 +6,9 @@ It's an application with functionality to calculate the BMI based on height and 
 ##
 
 
-<img src="https://github.com/user-attachments/assets/2c1f2422-64c3-4a4e-a693-a22c16e70330" alt="Focus Timer Logo" >
-<img src="https://github.com/user-attachments/assets/54d79c4b-1ea3-4b77-94f6-f3aa15947114" alt="Focus Timer Logo" >
+<img src="https://github.com/user-attachments/assets/a13340a1-b233-4d09-824f-cc3bc091d2b0" alt="BMI image" height="400">
+<img src="https://github.com/user-attachments/assets/7ac0eada-e099-4249-8f1b-25985dcce6fc" alt="BMI image 2" height="400">
+<img src="https://github.com/user-attachments/assets/fd4d4dc8-4882-41db-9d1d-3b4b45c2d58b" alt="BMI image 3" height="400">
 
 
 ## 📫 Contributing to <project_name>
