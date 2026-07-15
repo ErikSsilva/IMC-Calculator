@@ -11,14 +11,14 @@ It's an application with functionality to calculate the BMI based on height and 
 <img src="https://github.com/user-attachments/assets/fd4d4dc8-4882-41db-9d1d-3b4b45c2d58b" alt="BMI image 3" height="400">
 
 
-## 📫 Contributing to <project_name>
+## 📫 Contributing to ICM-Calculator
 
-To contribute to <project_name>, follow these steps:
+To contribute to ICM-Calculator, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name> / <location>`
+4. Push to the original branch: `git push origin ICM-Calculator / <location>`
 5. Create a pull request.
 
  ## 🧷 Built With
